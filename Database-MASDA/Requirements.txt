@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+pandas
+plotly
+nilearn
+stmol
+py3Dmol
+requests
+python-dotenv
