@@ -1,4 +1,4 @@
-\# MASDA: Multi-scale Affective System and Disorder Atlas
+# MASDA: Multi-scale Affective System and Disorder Atlas
 
 
 
