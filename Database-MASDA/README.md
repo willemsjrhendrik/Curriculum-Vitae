@@ -9,9 +9,11 @@ In psychiatry and neuroscience, researchers typically work at a single level of 
 MASDA achieves **mechanistic continuity** across scales. It allows a researcher to start with a high-level ICD-11 normalized disorder and navigate a single, logical path down to a specific ion channel in a specific cell cluster — bridging clinical psychiatry and molecular neuroscience in one interface.
 
 The main navigation chain:
-´´´
+
+```
 Disorder (ICD-11) → Circuit → Brain Region → Cell Type → Ion Channel → Therapeutics
-´´´
+```
+
 Associative junction tables capture **state-dependent pathology**, defining how a disease specifically alters each structure (e.g. hyperactivation, hypoactivation, dysregulation).
 
 ## Data Sources
