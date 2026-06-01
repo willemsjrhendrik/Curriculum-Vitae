@@ -49,3 +49,6 @@ The interface offers three entry points depending on your research perspective:
 - **Clinical Discovery** — start from a disorder and drill down to molecular targets
 - **Anatomical Discovery** — start from a brain region and explore linked disorders and cell types
 - **System Discovery** — start from a functional circuit and explore its components and pathology
+
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/VR3Z08FAep4/0.jpg)](https://youtu.be/VR3Z08FAep4)
