@@ -1,10 +1,17 @@
-# Responsive neuromodulation in temporal lobe epilepsy: Preclinical investigation of the safety and efficacy of the WiChR opsin as an optogenetic tool
+# Responsive neuromodulation in temporal lobe epilepsy:
+### Preclinical investigation of the safety and efficacy of the WiChR opsin as an optogenetic tool
 
 **Master's Thesis — MSc in Biomedical Sciences**
 
 *   **Authors:** Hendrik Willems & Brin Bogeart
 *   **Supervisors:** Prof. Dr. Robrecht Raedt, Sofie Lasure, and Lien De Schaepmeester
 *   **Institution:** 4Brain Lab (Department of Head and Skin), Ghent University (UGent)
+
+---
+
+## 📄 Thesis Access
+
+The full thesis is restricted and cannot be shared publicly. It is available through the **[UGent library catalogue](https://lib.ugent.be)**.
 
 ---
 
