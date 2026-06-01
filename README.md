@@ -10,8 +10,10 @@ I hold an MSc in Biomedical Sciences and Neuroscience, and I am currently pursui
 This repository serves as an archive of my past academic work and projects. You are welcome to browse the directories to review source codes, data pipelines, methodologies, and papers I (co-)wrote. 
 
 **Featured Works Include:**
-*   **Optogenetics & Neuromodulation:** Master's thesis on *"Responsive neuromodulation in temporal lobe epilepsy: Preclinical investigation of the safety and efficacy of the WiChR opsin as an optogenetic tool."*
-*   **Cancer Metabolism & Machine Learning:** A pioneering project utilizing Hyperdimensional Computing (HDC) to classify cancer subtypes through tumor metabolic networks.
+*   **[2023] Status of non-viral CRISPR-engineering of CAR T Cells:** Bachelor's thesis on [*"Non-viral CRISPR-engineering of CAR T cells: Where are we?"*](./CAR-T-Cell-CRISPR)
+*   **[2025] Optogenetics & Neuromodulation:** Master's thesis on [*"Responsive neuromodulation in temporal lobe epilepsy: Preclinical investigation of the safety and efficacy of the WiChR opsin as an optogenetic tool."*](./Optogenetics-Neuromodulation)
+*   **[2026] Cancer Metabolism & Machine Learning:** A pioneering project utilizing [Hyperdimensional Computing (HDC)](./Cancer-Metabolism-HDC) to classify cancer subtypes through tumor metabolic networks.
+*   **[2026] A Multi-scale Affective System and Disorder Atlas ([MASDA](./Database-MASDA)):** A database that bridges clinical psychiatry and molecular neuroscience in one interface.
 
 ---
 
