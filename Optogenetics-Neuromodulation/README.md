@@ -9,7 +9,7 @@
 
 ---
 
-## 📄 Thesis Access
+## Thesis Access
 
 The full thesis is restricted and cannot be shared publicly. It is available through the **[UGent library catalogue](https://lib.ugent.be)**.
 
