@@ -1,6 +1,6 @@
 # Responsive Neuromodulation in Temporal Lobe Epilepsy
 ![Badge](https://img.shields.io/badge/degree-Master%20of%20Science-teal)
-![Badge](https://img.shields.io/badge/year-2023--2024-green)
+![Badge](https://img.shields.io/badge/year-2024--2025-green)
 ![Badge](https://img.shields.io/badge/university-UGent-blue)
 
 >The full thesis is restricted and cannot be shared publicly.
