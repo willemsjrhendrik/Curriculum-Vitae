@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Chimeric antigen receptor (CAR) T cells are a form of adoptive T-cell therapy widely investigated for the treatment of cancer. While viral transfection methods are the gold standard to generate CAR T cells, non-viral CRISPR-engineering using electroporation can create a more precise and homogenic form of gene-editing. This is accomplished by specifically cutting the DNA using a CRISPR-associated protein 9 (Cas9) and knocking-in a CAR transgene by stimulating the homology directed repair (HDR) mechanism with an HDR template. Moreover, non-viral CRISPR-engineering is faster, safer and cheaper than viral methods. Non-viral techniques for CAR T-cell engineering open a new and promising world in gene editing and immune therapy, with several early phase clinical trials in the pipeline.
+Chimeric antigen receptor (CAR) T cells are a form of adaptive T-cell therapy widely investigated for the treatment of cancer. While viral transfection methods are the gold standard to generate CAR T cells, non-viral CRISPR-engineering using electroporation can create a more precise and homogenic form of gene-editing. This is accomplished by specifically cutting the DNA using a CRISPR-associated protein 9 (Cas9) and knocking-in a CAR transgene by stimulating the homology directed repair (HDR) mechanism with an HDR template. Moreover, non-viral CRISPR-engineering is faster, safer and cheaper than viral methods. Non-viral techniques for CAR T-cell engineering open a new and promising world in gene editing and immune therapy, with several early phase clinical trials in the pipeline.
 
 ## Internship Assay
 
