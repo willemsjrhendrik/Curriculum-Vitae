@@ -39,7 +39,7 @@ ssHDC helped when the networks were strongly filtered, but overfitted on dense n
 | Author | Jan P. Nawrocki |
 | Author | Pieterjan Vagenende |
 | Author | Wouter Vanhoecke |
-| Author (ssHDC) | Hendrik Willems |
+| Author | Hendrik Willems |
 | Supervisor | Carlos Vigil-Vásquez |
 | Supervisor | Prof. Dr. Michiel Stock |
 
