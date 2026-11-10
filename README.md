@@ -5,7 +5,7 @@ I hold an MSc in Biomedical Sciences and Neuroscience, and I am currently pursui
 
 ---
 
-### Repositort Overview
+### Repository Overview
 
 This repository serves as an archive of my past academic work and projects. You are welcome to browse the directories to review source codes, data pipelines, methodologies, and papers I (co-)wrote. 
 
@@ -14,7 +14,7 @@ This repository serves as an archive of my past academic work and projects. You 
 *   **[2025] Optogenetics & Neuromodulation:** Master's thesis on [*"Responsive neuromodulation in temporal lobe epilepsy: Preclinical investigation of the safety and efficacy of the WiChR opsin as an optogenetic tool."*](./Optogenetics-Neuromodulation)
 *   **[2026] Cancer Metabolism & Machine Learning:** A pioneering project utilizing [Hyperdimensional Computing (HDC)](./Cancer-Metabolism-HDC) to classify cancer subtypes through tumor metabolic networks.
 *   **[2026] A Multi-scale Affective System and Disorder Atlas ([MASDA](./Database-MASDA)):** A database that bridges clinical psychiatry and molecular neuroscience in one interface.
-
+*   **[2026] Mini-Spaun:** A notebook series [rebuilding core ideas of Spaun](./Mini-Spaun), the large-scale functional brain model, using semantic pointers and the Neural Engineering Framework (NEF), implemented with torchhd and brian2.
 ---
 
 ### Contact Information
